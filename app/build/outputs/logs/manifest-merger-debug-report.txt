@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\ab0b11b45d4b409a29a4a10f27fb7902\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\26fbb5976420f7cf78532444ae2666cf\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\8b59ed2c47c36c6642e23d6590f8026d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\eebfa09f198bb0a2d5cb324d4c7c822e\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:4:5-53
+		INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:6:5-26:19
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\ab0b11b45d4b409a29a4a10f27fb7902\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\ab0b11b45d4b409a29a4a10f27fb7902\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\26fbb5976420f7cf78532444ae2666cf\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\26fbb5976420f7cf78532444ae2666cf\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\8b59ed2c47c36c6642e23d6590f8026d\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\8b59ed2c47c36c6642e23d6590f8026d\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\eebfa09f198bb0a2d5cb324d4c7c822e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\eebfa09f198bb0a2d5cb324d4c7c822e\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:9:9-41
+	tools:ignore
+		ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:12:9-60
+	android:icon
+		ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.davidgassner.android.balloonpopper.MainActivity
+ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:13:9-24:20
+	android:screenOrientation
+		ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:17:13-50
+	android:label
+		ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:16:13-45
+	android:configChanges
+		ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:15:13-74
+	android:theme
+		ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:18:13-51
+	android:name
+		ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:14:13-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\ab0b11b45d4b409a29a4a10f27fb7902\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\ab0b11b45d4b409a29a4a10f27fb7902\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\26fbb5976420f7cf78532444ae2666cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\26fbb5976420f7cf78532444ae2666cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\8b59ed2c47c36c6642e23d6590f8026d\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\8b59ed2c47c36c6642e23d6590f8026d\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\eebfa09f198bb0a2d5cb324d4c7c822e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\eebfa09f198bb0a2d5cb324d4c7c822e\AndroidManifest.xml:21:5-23:54
+INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Bethanys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\ab0b11b45d4b409a29a4a10f27fb7902\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bethanys\AndroidStudioProjects\Balloon-Popper\app\src\main\AndroidManifest.xml
